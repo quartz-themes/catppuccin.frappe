@@ -256,8 +256,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
-      variation: null
+      theme: catppuccin
+      variation: frappe
 layout:
   groups:
     toolbar:
